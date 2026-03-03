@@ -64,7 +64,7 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
 <p>
   <img 
@@ -81,4 +81,4 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelgrespan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</p> -->

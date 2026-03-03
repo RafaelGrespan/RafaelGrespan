@@ -4,17 +4,20 @@
 
 Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Concluí o ensino médio na Escola Waldorf Rudolf Steiner e atualmente estou cursando Ciência da Computação no Instituto Mauá de Tecnologia.
 
+
+### 🌐 Contato e Redes Sociais
+
 <p align="left">
-   <!-- <a href="https://github.com/RafaelGrespan?tab=repositories&sort=stargazers">
+   <a href="https://www.instagram.com/rafa_grespan/">
         <img 
             alt="Instagram" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/star/RafaelGrespan?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            title="Meu Instagram" 
+            src="https://github.com/user-attachments/assets/c4596dfa-4d8d-427a-98f2-6104d7dae0e9"
+            width="30px"
+            height="30px"
         />
-    </a> -->
+    </a> 
 </p>
-
----
 
 ### 🧰 Linguagens e Tecnologias
 

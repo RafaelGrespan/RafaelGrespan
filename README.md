@@ -15,7 +15,6 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
            title="Meu Instagram" 
            src="https://github.com/user-attachments/assets/c4596dfa-4d8d-427a-98f2-6104d7dae0e9"
            width="30"
-           height="30"
        />
    </a>
 
@@ -46,6 +45,14 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"       
 />
 <img 
     align="left" 

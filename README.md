@@ -17,7 +17,6 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
            width="30"
        />
    </a>
-
 </p>
 
 ### 🧰 Linguagens e Tecnologias

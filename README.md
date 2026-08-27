@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Concluí o ensino médio na Escola Waldorf Rudolf Steiner e atualmente estou cursando Ciência da Computação no Instituto Mauá de Tecnologia.
+Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Concluí o ensino médio na Escola Waldorf Rudolf Steiner e atualmente estou cursando Ciência da Computação no Instituto Mauá de Tecnologia. Além disso também sou um membro ativo da entidade de cibersegurança Guardian.
 
 ---
 

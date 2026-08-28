@@ -70,6 +70,16 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"     
 />
 
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+
 <!-- ícones: https://devicon.dev/ -->
 
 <br/>

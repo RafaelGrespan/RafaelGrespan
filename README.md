@@ -8,6 +8,7 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
 
 ### 🌐 Contato e Redes Sociais
 
+<div>
 <p align="left">
     <a href="https://www.instagram.com/rafa_grespan/" target="_blank">
        <img 
@@ -19,7 +20,6 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
    </a>
 </p>
 
-
 <p align="left">
     <a href="https://www.linkedin.com/in/rafael-grespan" target="_blank">
        <img 
@@ -30,6 +30,7 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
        />
    </a>
 </p>
+</div>
 
 ### 🧰 Linguagens e Tecnologias
 

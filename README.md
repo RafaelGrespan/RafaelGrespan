@@ -19,6 +19,18 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
    </a>
 </p>
 
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/rafael-grespan" target="_blank">
+       <img 
+           alt="linkedin" 
+           title="Meu LinkedIn" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
+           width="30"
+       />
+   </a>
+</p>
+
 ### 🧰 Linguagens e Tecnologias
 
 <img 

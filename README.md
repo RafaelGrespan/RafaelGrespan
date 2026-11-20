@@ -1,12 +1,11 @@
 # 👨🏻‍💻 Rafael Grespan
 
-Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Concluí o ensino médio na Escola Waldorf Rudolf Steiner e atualmente estou cursando Ciência da Computação no Instituto Mauá de Tecnologia. Além disso também sou um membro ativo da entidade de cibersegurança Guardian.
+My name is Rafael and Im attending the 2th semester of Computer Science at the Maua Institute of Technology. Also, I enjoy study 
 
 ---
 
 ### 🌐 Contato e Redes Sociais
-
-<p align="left">
+<div align="left">
     <a href="https://www.instagram.com/rafa_grespan/" target="_blank">
        <img 
            alt="Instagram" 
@@ -24,7 +23,7 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
            width="30"
        />
    </a>
-</p>
+</div>
 
 ### 🧰 Linguagens e Tecnologias
 
@@ -98,7 +97,7 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
 <br/>
 <br/>
 
-# 📊 Estatísticas
+<!--# 📊 Estatísticas
 
 <p>
   <img 
@@ -115,4 +114,5 @@ Me chamo Rafael Grespan de Souza, tenho 19 anos e sou de São Paulo capital. Con
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelgrespan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</p> -->
+

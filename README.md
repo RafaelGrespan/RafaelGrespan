@@ -6,20 +6,11 @@ My name is Rafael and Im attending the 2th semester of Computer Science at the M
 
 ### 🌐 Contato e Redes Sociais
 <div align="left">
-    <a href="https://www.instagram.com/rafa_grespan/" target="_blank">
-       <img 
-           alt="Instagram" 
-           title="Meu Instagram" 
-           src="https://github.com/user-attachments/assets/c4596dfa-4d8d-427a-98f2-6104d7dae0e9"
-           width="30"
-       />
-   </a>
-
    <a href="https://www.linkedin.com/in/rafael-grespan" target="_blank">
        <img 
            alt="linkedin" 
            title="Meu LinkedIn" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linkedin/linkedin-original.svg"
            width="30"
        />
    </a>
